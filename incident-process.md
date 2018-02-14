@@ -2,17 +2,17 @@
 
 In any group of humans, things will sometimes go sideways. Whether it's simple unintentional miscommunication or more extreme unacceptable behavior, we need to have an agreed upon protocol to resolve these situations ourselves or to escalate in the case one-to-one resolutions in unachievable. 
 
-This is the process for incident resolution at Rands Leadership Slack and process is [documented culture](http://randsinrepose.com/archives/the-process-myth/).
+This is the process for incident resolution at SIRA Membership Slack and process is [documented culture](http://randsinrepose.com/archives/the-process-myth/).
 
 # The Process
 
 ## Resolve Peacefully 
 
-When an incident occurs, we ask that per the [Code of Conduct](https://github.com/randsleadershipslack/documents-and-resources/blob/master/code-of-conduct.md) for those involved to resolve peacefully:
+When an incident occurs, we ask that per the [Code of Conduct](https://github.com/societyinforisk/documents-and-resources/blob/master/code-of-conduct.md) for those involved to resolve peacefully:
 
 “If you see someone violating any part of this Code of Conduct, we urge you to respectfully dissuade them from such behavior. Expect that others in the community wish to help keep the community respectful, and welcome your input in doing so.”
 
-This is easier said than done, but this is Leadership Slack. Our expectations are that everyone here is hoping to learn about the craft of leadership; peaceful resolution of complex human situations is leadership 101.
+This is easier said than done, but our expectations are that everyone here is willing to participate in the craft of leadership and peaceful resolution of complex human situations.
 
 ## Escalation
 
@@ -27,7 +27,7 @@ When ready and if appropriate, the reporter needs to send the administrator a di
 
 With this information in hand, the administrator will strive to respond to the reporter as quickly as possible with an estimate of when they think they’ll be able to triage and resolve this incident. In extreme cases, the administrator may suspend one or more accounts until they are able to triage and resolve an incident. 
 
-Incident resolution can vary from hours to days depending on the availability of those involved. Once the incident is resolved, the administrator will communicate the resolution to the reporter and other other parties relevant to the incident. In extreme cases, the administrator will communicate the resolution with #rands-slack-rules with reporter permission. 
+Incident resolution can vary from hours to days depending on the availability of those involved. Once the incident is resolved, the administrator will communicate the resolution to the reporter and other other parties relevant to the incident. In extreme cases, the administrator will communicate the resolution with #slack-rules with reporter permission. 
 
 ## Appeal of Account Suspension
 
@@ -35,12 +35,24 @@ In cases the result in account suspension, the individual suspended may appeal t
 
 # FAQ:
 
-- “Is situation XYZ an incident?” Unsure if there’s a CoC violation? Ask in #rands-slack-rules and/or DM the administrator. We'll help. 
-- “How many incidents have you handled since this place started?” Eight as of January 2018.
+- “Is situation XYZ an incident?” Unsure if there’s a CoC violation? Ask in #slack-rules and/or DM an administrator. We'll help. 
+- “How many incidents have you handled since this place started?” Zero as of February 2018.
 
 ## Administrators
 
-The administrator(s) of Rands Leadership as of January 29th, 2018:
+The administrators of SIRA Membership Slack as of February 14, 2018:
 
-@rands ([Michael Lopp](mailto:feedback@randsinrepose.com))
+* [Lisa Young](mailto:lisa.young@societyinforisk.org) ([President](mailto:president@societyinforisk.org))
+* [Michael Roytman](mailto:michael.roytman@societyinforisk.org) ([Vice President](mailto:events@societyinforisk.org))
+* [Evan Wheeler](mailto:evan.wheeler@societyinforisk.org) ([Secretary](mailto:@societyinforisk.org))
+* [Marcin Antkiewicz](mailto:marcin.antkiewicz@societyinforisk.org) ([Tech Guru and Thought Leader](mailto:admin@societyinforisk.org))
+* [John Benninghoff](mailto:john.benninghoff@societyinforisk.org) ([Membership Coordinator](mailto:membership@societyinforisk.org))
+* [John Hoffoss](mailto:john.hoffoss@societyinforisk.org) ([Treasurer](mailto:payments@societyinforisk.org))
 
+
+
+## Thanks
+
+This Code of Conduct was forked on February 14, 2018 from the [Rands Leadership Slack](http://randsinrepose.com/welcome-to-rands-leadership-slack/) [Incident Process](https://github.com/randsleadershipslack/documents-and-resources), which  was published on January 29th, 2018.
+
+This Incident Process is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
