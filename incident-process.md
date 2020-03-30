@@ -1,58 +1,91 @@
-# Things Sometimes Go Sideways
+# The SIRA Incident Process
 
-In any group of humans, things will sometimes go sideways. Whether it's simple unintentional miscommunication or more extreme unacceptable behavior, we need to have an agreed upon protocol to resolve these situations ourselves or to escalate in the case one-to-one resolutions in unachievable. 
+Our brief governing philosophy: 
 
-This is the process for incident resolution at SIRA Membership Slack and process is [documented culture](http://randsinrepose.com/archives/the-process-myth/).
+**Please strive to resolve a non-heinous situation by yourself; if it’s a heinous situation, please contact an Admin immediately.**
 
-# The Process
+## Something is Off
 
-## Resolve Peacefully 
+A significant part of the Administrator job is the management of incidents on the SIRA Membership Slack and SIRA Mailing List, but ideally the community (that’s you) has both the tools and the desire to resolve many situations without Administrator support. 
 
-When an incident occurs, we ask that per the [Code of Conduct](https://github.com/societyinforisk/documents-and-resources/blob/master/code-of-conduct.md) for those involved to resolve peacefully:
+The SIRA Code of Conduct (“CoC”) exists to give members a model idea of what is and isn’t acceptable in SIRA including behavior, marketing activity, and etiquette. If you experience strange behavior in a channel and are wondering if it’s acceptable, please first consult the CoC.
 
-“If you see someone violating any part of this Code of Conduct, we urge you to respectfully dissuade them from such behavior. Expect that others in the community wish to help keep the community respectful, and welcome your input in doing so.”
+With CoC clarity in hand, please contact the member(s) and explain:
 
-This is easier said than done, but our expectations are that everyone here is willing to participate in the craft of leadership and peaceful resolution of complex human situations.
+1. This is the activity I saw which I have an issue with,
+2. It’s not allowed by the CoC, and,
+3. Let’s figure out how to resolve it. 
 
-## Escalation
+The default first step is to contact an Administrator, but as this is a professional community made up of adults, we ask in non-heinous cases to start with member-driven resolution. If you are not comfortable with this approach, go ahead and jump to “It’s Admin O’Clock”.
 
-Resolution amongst the individuals will not always be achievable. In this case, the reporter and/or observer of the incident has a choice. They can share the incident with #rands-slack-rules to seek feedback and perhaps resolve the incident or they can raise the incident with the administrator (see below for specifics). We understand the need for the latter workflow, but we highly encourage the former because, again, this is a leadership Slack. Our hope is that the debate will help educate this sub-community of humans interested in the rules and culture that govern this small corner of the Internet. 
+Ideally, the above discussion can help resolve the situation. It often does. If it does not, if you are not comfortable contacting the member(s), or if this is an obvious heinous situation, jump to “It’s Admin O’Clock”.
 
-When ready and if appropriate, the reporter needs to send the administrator a direct message with the following information. 
+## It’s Admin O’Clock
 
-1. What’s the nature of the incident and/or CoC violation? 
+Administrators can be contacted directly, in the #slack-admin channel, via the @slack-admins user group, or via the @board user group as a last resort. Please choose the path most comfortable for you. 
+
+When you contact an Administrator(s), provide the following:
+
+1. The activity you saw that you have an issue with,
+2. If applicable, the CoC violation.
+
+Things to know:
+
+* The Administrators are committed to a first response within 24 hours. Usually faster. If you directly contact a single admin, it could be longer due to time zone differences and work schedules. 
+* #slack-admin contains all the of the Administrators and is public. If you're filing a formal incident, we suggest directly contacting an Admin or the @slack-admins user group, as formal incidents are confidential to the admins.
+
+Once you’ve contacted the Administrators, they’ll help you triage the incident. 
+
+## Formal Incident Process
+
+In the case of a formal incident being reported, there are two possible resolution paths:
+
+1. Raising a concern to the Administrators to give them context, or,
+2. Filing a formal complaint that will result in administrative action.
+
+In both cases, the reporter needs to provide the following information to the Administrators:
+
+1. What’s the nature of the incident or Code of Conduct violation?
 2. Who is involved in this incident?
 3. What material supports this situation?
 4. Any privacy concerns? (Reporter consent is required before sharing any information regarding the incident)
 
-With this information in hand, the administrator will strive to respond to the reporter as quickly as possible with an estimate of when they think they’ll be able to triage and resolve this incident. In extreme cases, the administrator may suspend one or more accounts until they are able to triage and resolve an incident. 
+With this information in hand, the Administrators will: 
 
-Incident resolution can vary from hours to days depending on the availability of those involved. Once the incident is resolved, the administrator will communicate the resolution to the reporter and other other parties relevant to the incident. In extreme cases, the administrator will communicate the resolution with #slack-rules with reporter permission. 
+1. Work to determine whether this is a raised concern or a formal complaint with the reporter. In the case of a raised concern, the understanding is there may be no action other than administrative awareness.
+2. Ask clarifying questions of the reporter because every incident is different.
+3. Work with publicly available content to confirm the report.
+4. Talk with their fellow Administrators to gather perspective.
+5. The Administrators may deem it necessary to talk to the accused member(s) to gather additional perspective. 
 
-## Appeal of Account Suspension
+With this information in hand, the Administrators will determine a consequence. Consequences include but are not limited to:
 
-In cases the result in account suspension, the individual suspended may appeal the decision starting one week after the suspension by sending a mail to the administrator with justification for overturning the appeal. If a suspension is overturned, the new context will be shared with #rands-slack-rules
+1. A Strike
+    * SIRA operates on a three strike system whereby non-suspending CoC violations can result in one or more strikes. Administrators will use their judgement and historical precedent to determine what constitutes a strike. When a member receives three strikes, they will be suspended from SIRA for a period of time or permanently depending on the violation. Multiple strikes can be assessed depending on the violation. 
+    * We do not have a definition of what does and does not constitute a strike. However, we are keeping a record of all administrative activity to help calibrate strikes. 
+2. Do Not Contact
+    * A member may not contact (in any fashion, messages or emoji) either publicly or privately one or more other members of the Slack for a predetermined period of time. 
+3. Temporary suspension
+    * A member is suspended from SIRA for a predetermined period of time.
+4. Permanent suspension
+    * A member is permanently banned from SIRA
 
-# FAQ:
+For any type of suspension, the admins will conduct a private vote based on the incident. Majority wins. In the event of a tie, a @board vote will make the ultimate decision. 
 
-- “Is situation XYZ an incident?” Unsure if there’s a CoC violation? Ask in #slack-rules and/or DM an administrator. We'll help. 
-- “How many incidents have you handled since this place started?” Zero as of February 2018.
+With the defined incident and consequence in hand, the Administrator will present the following to the accused member: 
+
+* This is what occurred.
+* This incident is confidential. 
+* This is how I confirmed what occurred.
+* This is what I decided in terms of consequence. In the case of a non-ban action, explain the terms of Do Not Contact, Strikes, Etc. 
+    * For strikes, members will be alerted to the strike policy and the number of current strikes they have.
+    * For Do Not Contact, members will receive the time period when they can not contact other member(s)
+    * For Temporary Suspension, members will receive the time period when they can not be a part of SIRA.
+    * For Permanent Suspension, members will receive the content above and then permanent removed from SIRA.
+
+The Administrators are committed to resolve incidents **within five working days**.
 
 ## Administrators
 
-The administrators of SIRA Membership Slack as of February 14, 2018:
+The current roster of Administrators is maintained in the primary [Code of Conduct](https://github.com/societyinforisk/documents-and-resources/blob/master/code-of-conduct.md) document.
 
-* [Lisa Young](mailto:lisa.young@societyinforisk.org) ([President](mailto:president@societyinforisk.org))
-* [Michael Roytman](mailto:michael.roytman@societyinforisk.org) ([Vice President](mailto:events@societyinforisk.org))
-* [Evan Wheeler](mailto:evan.wheeler@societyinforisk.org) ([Secretary](mailto:@societyinforisk.org))
-* [Marcin Antkiewicz](mailto:marcin.antkiewicz@societyinforisk.org) ([Tech Guru and Thought Leader](mailto:admin@societyinforisk.org))
-* [John Benninghoff](mailto:john.benninghoff@societyinforisk.org) ([Membership Coordinator](mailto:membership@societyinforisk.org))
-* [John Hoffoss](mailto:john.hoffoss@societyinforisk.org) ([Treasurer](mailto:payments@societyinforisk.org))
-
-
-
-## Thanks
-
-This Code of Conduct was forked on February 14, 2018 from the [Rands Leadership Slack](http://randsinrepose.com/welcome-to-rands-leadership-slack/) [Incident Process](https://github.com/randsleadershipslack/documents-and-resources), which  was published on January 29th, 2018.
-
-This Incident Process is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
